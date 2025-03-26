@@ -1,0 +1,15 @@
+<dependencies>
+  <!-- JDBC для подключения к MySQL -->
+  <dependency>
+    <groupId>mysql</groupId>
+    <artifactId>mysql-connector-java</artifactId>
+    <version>8.0.29</version>
+  </dependency>
+
+  <!-- JavaFX для создания UI (если потребуется) -->
+  <dependency>
+    <groupId>org.openjfx</groupId>
+    <artifactId>javafx-controls</artifactId>
+    <version>17</version>
+  </dependency>
+</dependencies>
